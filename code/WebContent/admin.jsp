@@ -5,7 +5,7 @@
 <html lang="zh">
 <head>
 	<meta charset="UTF-8">
-	<title>管理员操作界面</title>
+	<title>  仅作实验用2023.10.11  ---管理员操作界面</title>
 	<link rel="stylesheet" type="text/css" href="css/user&admin.css">
 	<link rel="icon" type="image/x-ico" href="images/stu.ico">
 </head>
